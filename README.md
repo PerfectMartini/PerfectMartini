@@ -1,4 +1,13 @@
-### Hi there 👋
+# 강건 (Geon Kang)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=geonkang99)](https://solved.ac/profile/geonkang99)
+
+[![PerfectMartini's github stats](https://github-readme-stats.vercel.app/api?username=PerfectMartini&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=PerfectMartini)
+
+### 🌱 I’m currently learning ...
+- Algorithms for PS
+
+### 🔭 I’m currently working on ...
 
 <!--
 **PerfectMartini/PerfectMartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
